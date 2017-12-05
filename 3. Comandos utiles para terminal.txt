@@ -1,0 +1,13 @@
+Comandos mas utilies
+
+#cd = Mover entre carpetas
+#mkdir = Crear carpetas
+#ls = Listar directorios
+#clear = Limpiar terminal
+#touch = crear un archivo
+#rm = remover (-rf: borrar carpetas hijas)
+
+VIM
+#i = Editar documento
+#wq = Salir guardando
+#q! = Salir

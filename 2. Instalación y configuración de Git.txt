@@ -1,0 +1,15 @@
+Comando para instalar Git en Mac
+Se puede descargar de la pag. oficial de Git
+
+Obtener la versión de Git:
+#git --version
+
+Configuración Basica:
+Email:
+#git config --global user.email fvargas489@gmail.com
+
+Nombre:
+#git config --global user-name Frdyco
+
+Colores dentro de Git:
+#git config --global color.ui true

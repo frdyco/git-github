@@ -1,0 +1,4 @@
+Los tres estados de Git son:
+1. Working Directory
+2. Staging Area (área de preparación).
+3. Git Directory (repositorio).
