@@ -1,0 +1,4 @@
+#git init [nombre_de_la_carpeta]
+Este comando sirve para crear un repositorio de manera local
+se puede agregar un nombre y creara una carpeta dentro del
+directorio.

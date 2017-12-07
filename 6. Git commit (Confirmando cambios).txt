@@ -1,0 +1,6 @@
+#git commit -m “mensaje” : pasar nuestros archivos al Git Directory (repositorio, estado 3).
+Nota: utilizar en el "mensaje" una descripción detallada de los cambios que se realizaron en el commit.
+
+–amend: concatena nuevos cambios con cambios previos.
+
+git log: nos muestra la historia de todos los commits que hemos realizados.
