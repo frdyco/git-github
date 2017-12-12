@@ -1,0 +1,2 @@
+#git checkout [Nombre/SHA-1]: permite moverse entre ramas o entre commits.
+#git chackout -b [nombre_rama]: Permite crear una nueva rama sin necesidad de usar branch.

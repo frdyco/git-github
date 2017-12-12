@@ -1,0 +1,5 @@
+#git branch -b [nombre]: Se crea una nueva rama.
+
+-l: lista las ramas.
+-d/-D [nombre]: borrar rama.
+-m [nombre][nuevo_nombre]: renombrar rama.
