@@ -1,0 +1,7 @@
+#git diff [SHA-1]: Muestra los cambios del commit (SHA-1) contra
+el ultimo commit de la rama en que actualmente estamos (master).
+
+#gif diff [XXX-1][XXX-2]: Muestra las diferencias el commit[XXX-1] y
+contra el commit [XXX-2].
+
+#git diff [tag-1][tag-2]: Tambien funciona con tags

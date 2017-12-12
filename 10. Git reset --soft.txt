@@ -1,0 +1,10 @@
+#git reset --soft: Permite reescribir la historia de un commit.
+
+Ejemplo:
+Si tienes hasta el commit 10 y ejecutas
+#git reset --soft [SHA-1 del Commit 7]
+Regresara al commit 7 y todos los cambios hechos
+del Commit 8, 9 y 10 se trasladaran al staging Area listos para
+hacer un nuevo commit, borrandose los commits del 8 al 10.
+
+Nota: no se dejara registro en el log del comando git reset.

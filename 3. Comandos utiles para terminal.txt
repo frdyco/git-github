@@ -1,4 +1,4 @@
-Comandos mas utilies
+Comandos más utilies:
 
 #cd = Mover entre carpetas
 #mkdir = Crear carpetas

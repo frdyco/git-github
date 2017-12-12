@@ -1,0 +1,11 @@
+#git tag: nos permite agregar etiquetas a nuestros cambios.
+
+-a: para la anotación
+-m: agrear un mensaje
+-l: lista las etiquetas
+-f: renombra un tag
+-d: borrar tag
+
+Ejemplo:
+
+#git tag -a 0.0.1 'Primer tag' + [SHA-1]

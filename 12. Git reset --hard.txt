@@ -1,0 +1,4 @@
+#git reset --hard [SHA-1]: Elimina los cambios, incluso del working directory,
+importante tener cuidado ya que se puede perder todo el registro, salvo se tenga
+un backup de los SHA-1 de los commits borrados para volver al contenido
+del commit.

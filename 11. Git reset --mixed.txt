@@ -1,0 +1,9 @@
+#git reset --mixed [SHA-1]: elimina los cambios hasta el SHA-1 y Tambien
+del staging area, teniendo que volver a agregar los archivos con
+#git add .
+y crear un nuevo commit.
+
+Ejemplo:
+#git reset --mixed [SHA-1]
+#git add -A
+#git commit -m "Suma de los commits 3, 4 y 5"
