@@ -1,0 +1,5 @@
+Crear una llave SSH:
+#ssh-keygen -t rsa -b 4096 -C "Email de github"
+
+Copiar la llave publica al clipborard:
+#pbcopy < ~/.ssh/id_rsa.pub

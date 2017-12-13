@@ -1,1 +1,2 @@
-#git cherry-pick [SHA1]: Permite cambiar un commit a otra rama para salvarnos la vida.
+Cherry-pick: permite mover un commit de una rama a otra.
+#git cherry-pick [SHA1]
