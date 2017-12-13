@@ -1,6 +1,5 @@
 #git log: muestra el historial de los commits
 
 --oneline: muestra los commits de forma reducida.
--graph: muestra los commits en forma de forma grafica: ramas o bifuraciones.
+--graph: muestra los commits en forma de forma grafica: ramas o bifuraciones.
 -[numero]: muestra la información de los commits segun el numero indicado "1=Primer commit, 2=Seguno commit, etc..."
- 
